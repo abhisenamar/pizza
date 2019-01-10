@@ -6,7 +6,7 @@
 
 using namespace std;
 
-const double taxmultiplier=0.3;
+const double taxmultiplier=0.4;
 const int NUMPIZZA=12;//the type of pizzas available
 const int NUMSIZE=4;//the type of sizes available
 const int NUMCRUST=5;//the type of crusts available
